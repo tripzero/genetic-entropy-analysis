@@ -1,0 +1,133 @@
+{
+ "k_ma_neutral_ratio": 0.9568701376889526,
+ "rs2013_neutral_ratios": {
+  "1000": 0.9546294286483403,
+  "10000": 0.9591108467295649
+ },
+ "extinction_generations": {
+  "no_selection": 882,
+  "with_selection": [
+   40831,
+   83647
+  ]
+ },
+ "comparisons": [
+  {
+   "dataset": "Human lineage vs chimpanzee",
+   "mode": "pairwise",
+   "G": [
+    252000.0,
+    189655.1724137931,
+    375000.0
+   ],
+   "F_obs": [
+    17500000.0,
+    15000000.0,
+    20000000.0
+   ],
+   "neutral": [
+    12247875.0,
+    7977103.448275861,
+    21139874.999999996
+   ],
+   "ma_neutral_scaled": [
+    11719625.83764708,
+    7633052.074910742,
+    20228115.101977244
+   ],
+   "obs_over_neutral": 1.4288192849780064,
+   "obs_over_ma_neutral": 1.4932217327096367,
+   "ma_published_total": [
+    1234,
+    2710
+   ],
+   "ma_published_selective": [
+    79,
+    1476
+   ],
+   "obs_over_published": [
+    6457.564575645756,
+    14181.523500810374
+   ],
+   "U_over_published_U": 7125.0
+  },
+  {
+   "dataset": "Eastern vs western gorilla",
+   "mode": "pairwise",
+   "G": [
+    26315.78947368421,
+    7894.736842105263,
+    92105.26315789473
+   ],
+   "F_obs": [
+    4350000.0,
+    3335000.0,
+    5075000.0
+   ],
+   "neutral": [
+    2545711.5789473685,
+    1180605.2631578948,
+    5855752.499999998
+   ],
+   "ma_neutral_scaled": [
+    2435915.3890637294,
+    1129685.920714197,
+    5603194.700947426
+   ],
+   "obs_over_neutral": 1.7087560256133534,
+   "obs_over_ma_neutral": 1.7857763120713195,
+   "ma_published_total": [
+    1234,
+    2710
+   ],
+   "ma_published_selective": [
+    79,
+    1476
+   ],
+   "obs_over_published": [
+    1605.1660516605166,
+    3525.1215559157213
+   ],
+   "U_over_published_U": 6554.000000000001
+  },
+  {
+   "dataset": "Modern humans vs Neanderthal",
+   "mode": "fixed",
+   "G": [
+    24074.074074074073,
+    18965.51724137931,
+    30600.0
+   ],
+   "F_obs": [
+    31389,
+    31389,
+    47083
+   ],
+   "neutral": [
+    40090.95593749999,
+    1050.0527172413786,
+    266229.9055574999
+   ],
+   "ma_neutral_scaled": [
+    38361.838527997344,
+    1004.7640881274167,
+    254747.44638772178
+   ],
+   "obs_over_neutral": 0.7829446633533521,
+   "obs_over_ma_neutral": 0.8182350274242355,
+   "ma_published_total": [
+    1234,
+    2710
+   ],
+   "ma_published_selective": [
+    79,
+    1476
+   ],
+   "obs_over_published": [
+    11.582656826568266,
+    25.436790923824958
+   ],
+   "U_over_published_U": 7125.0
+  }
+ ]
+}

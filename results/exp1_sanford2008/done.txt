@@ -1,0 +1,6 @@
+fig1_selection exit 0 16:38:49
+fig1_noselection exit 0 16:39:14
+fig1_noselection_rr1 exit 0 16:41:08
+fig1_noselection_h0 exit 0 17:00:36
+fig5_10k exit 0 17:17:56
+ALL_DONE

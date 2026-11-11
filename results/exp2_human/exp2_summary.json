@@ -1,0 +1,110 @@
+{
+ "base_Udel5": {
+  "last_gen": 25000,
+  "fitness_end": 0.3954594299425371,
+  "fitness_1000": 0.8724519425144863,
+  "fitness_10000": 0.6396495392892976,
+  "fitness_25000": 0.3954594299425371,
+  "extinction_gen": null,
+  "del_per_indiv_end": 120665.36,
+  "fav_per_indiv_end": 13.47,
+  "del_accum_per_gen": 4.8266144,
+  "fitness_slope_per_gen_last5000": -1.546331516550854e-05
+ },
+ "dfe_all_deleterious": {
+  "last_gen": 7196,
+  "fitness_end": 0.0005744956433773041,
+  "fitness_1000": 0.16301196843246,
+  "fitness_10000": null,
+  "fitness_25000": null,
+  "extinction_gen": 7124,
+  "del_per_indiv_end": 467948.0,
+  "fav_per_indiv_end": 61.0,
+  "del_accum_per_gen": 65.02890494719288,
+  "fitness_slope_per_gen_last5000": -2.0606926827318966e-05
+ },
+ "dfe_empirical_Udel2": {
+  "last_gen": 10000,
+  "fitness_end": 0.2802701778546907,
+  "fitness_1000": 0.47445392460019503,
+  "fitness_10000": 0.2802701778546907,
+  "fitness_25000": null,
+  "extinction_gen": null,
+  "del_per_indiv_end": 10107.824,
+  "fav_per_indiv_end": 4.013,
+  "del_accum_per_gen": 1.0107824,
+  "fitness_slope_per_gen_last5000": -1.8483959775837134e-05
+ },
+ "sel_fulltrunc": {
+  "last_gen": 10000,
+  "fitness_end": 0.9930361806307046,
+  "fitness_1000": 0.9959939282511354,
+  "fitness_10000": 0.9930361806307046,
+  "fitness_25000": null,
+  "extinction_gen": null,
+  "del_per_indiv_end": 41741.674,
+  "fav_per_indiv_end": 10.977,
+  "del_accum_per_gen": 4.1741674,
+  "fitness_slope_per_gen_last5000": -4.2515237265838835e-09
+ },
+ "sel_partialtrunc": {
+  "last_gen": 10000,
+  "fitness_end": 0.8412630502518732,
+  "fitness_1000": 0.9420805921879492,
+  "fitness_10000": 0.8412630502518732,
+  "fitness_25000": null,
+  "extinction_gen": null,
+  "del_per_indiv_end": 47073.117,
+  "fav_per_indiv_end": 4.499,
+  "del_accum_per_gen": 4.7073117,
+  "fitness_slope_per_gen_last5000": -1.011973264107946e-05
+ },
+ "heritability_1": {
+  "last_gen": 10000,
+  "fitness_end": 0.6380652946992778,
+  "fitness_1000": 0.8629281046485139,
+  "fitness_10000": 0.6380652946992778,
+  "fitness_25000": null,
+  "extinction_gen": null,
+  "del_per_indiv_end": 47668.732,
+  "fav_per_indiv_end": 1.311,
+  "del_accum_per_gen": 4.7668732,
+  "fitness_slope_per_gen_last5000": -2.0529630640265516e-05
+ },
+ "fav_1e-3": {
+  "last_gen": 10000,
+  "fitness_end": 0.638887900736183,
+  "fitness_1000": 0.8711215993064707,
+  "fitness_10000": 0.638887900736183,
+  "fitness_25000": null,
+  "extinction_gen": null,
+  "del_per_indiv_end": 47968.051,
+  "fav_per_indiv_end": 70.307,
+  "del_accum_per_gen": 4.7968051,
+  "fitness_slope_per_gen_last5000": -2.275439907455583e-05
+ },
+ "fav_1e-2": {
+  "last_gen": 10000,
+  "fitness_end": 0.6336664244874847,
+  "fitness_1000": 0.8609156269902157,
+  "fitness_10000": 0.6336664244874847,
+  "fitness_25000": null,
+  "extinction_gen": null,
+  "del_per_indiv_end": 48136.141,
+  "fav_per_indiv_end": 486.893,
+  "del_accum_per_gen": 4.813614100000001,
+  "fitness_slope_per_gen_last5000": -1.9728281683707594e-05
+ },
+ "base_N10000": {
+  "last_gen": 10000,
+  "fitness_end": 0.7240708802434441,
+  "fitness_1000": 0.872784902275114,
+  "fitness_10000": 0.7240708802434441,
+  "fitness_25000": null,
+  "extinction_gen": null,
+  "del_per_indiv_end": 47616.7138,
+  "fav_per_indiv_end": 5.4766,
+  "del_accum_per_gen": 4.76167138,
+  "fitness_slope_per_gen_last5000": -1.0205675075945919e-05
+ }
+}

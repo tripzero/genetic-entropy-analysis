@@ -1,0 +1,10 @@
+dfe_all_deleterious exit 0 17:11:56
+heritability_1 exit 0 17:21:30
+dfe_empirical_Udel2 exit 0 17:21:33
+fav_1e-3 exit 0 17:21:44
+fav_1e-2 exit 0 17:21:50
+sel_partialtrunc exit 0 17:21:51
+sel_fulltrunc exit 0 17:21:54
+base_Udel5 exit 0 17:52:46
+base_N10000 exit 0 18:52:48
+ALL_DONE

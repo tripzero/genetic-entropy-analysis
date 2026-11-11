@@ -1,0 +1,34 @@
+{
+ "fig1_selection": {
+  "gen": 1000,
+  "deleterious_per_indiv": 8822.459,
+  "favorable_per_indiv": 969.684,
+  "fitness": 0.7594470845096112,
+  "published": {
+   "deleterious": 8730,
+   "favorable": 1011
+  }
+ },
+ "fig1_noselection": {
+  "last_gen": 1500,
+  "extinction_gen": null,
+  "fitness_at_end": 0.31148350333646524,
+  "deleterious_per_indiv_end": 13336.078,
+  "published_extinction_gen": 882,
+  "fitness_at_500": 0.5649403340076731
+ },
+ "fig5_10k": {
+  "gen": 10000,
+  "del_fixed": 24468,
+  "fav_fixed": 2800,
+  "neu_fixed": 0,
+  "fitness": 0.4183991324750332,
+  "published": {
+   "del_fixed": 16116,
+   "fav_fixed": 3193
+  },
+  "total_fixed": 27268,
+  "neutral_expectation_Ne1.33N": 24198.189099999996,
+  "published_total": 19309
+ }
+}

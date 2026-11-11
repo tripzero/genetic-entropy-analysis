@@ -1,0 +1,4 @@
+# Re-fetchable inputs and build tree (mendel-go source, Go toolchain, LTEE Dryad data); see README.md for the download commands
+downloads/
+__pycache__/
+*.pyc

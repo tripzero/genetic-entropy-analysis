@@ -1,0 +1,7 @@
+U_del= 5.0 sanford  additive      : final W 0.594 at gen 10000, fixed 14350, segregating 80896, extinct None  (83s)
+U_del= 5.0 sanford  multiplicative: final W 0.592 at gen 10000, fixed 14561, segregating 81669, extinct None  (82s)
+U_del= 2.0 gamma    additive      : final W 0.348 at gen 10000, fixed 2303, segregating 23731, extinct None  (22s)
+U_del= 2.0 gamma    multiplicative: final W 0.177 at gen 10000, fixed 2815, segregating 26043, extinct None  (25s)
+U_del=70.0 sanford  additive      : final W 0.044 at gen 10000, fixed 190392, segregating 1107599, extinct None  (1282s)
+U_del=70.0 sanford  multiplicative: final W 0.023 at gen 3000, fixed 10058, segregating 1055229, extinct None  (331s)
+figure written

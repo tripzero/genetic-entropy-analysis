@@ -1,0 +1,4 @@
+ancestral_fav1e-2 exit 0 17:42:31
+mutator_fav1e-2 exit 0 17:43:25
+mutator_fav1e-4 exit 0 17:43:25
+ALL_DONE
